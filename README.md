@@ -2,10 +2,8 @@
 
 ### Kontaktuppgifter
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+E-post: tobias.andersson@hotmail.fi
+Telefonnummer: +358 40 1831015
 
 # Header 1
 ## Header 2
