@@ -1,19 +1,22 @@
-## Tobias Andersson CV
+# Tobias Andersson CV
 
-### Kontaktuppgifter
+## Kontaktuppgifter
 
 E-post: tobias.andersson@hotmail.fi <br>
 Telefonnummer: +358 40 1831015
 
-# Header 1
-## Header 2
-### Header 3
+## Studier
 
-- Bulleted
-- List
+Yrkesinstitutet Prakticum (2019-)
 
-1. Numbered
-2. List
+## Kunskap
+
+HTML:
+CSS:
+Bootstrap
+JS
+SQL
+
 
 **Bold** and _Italic_ and `Code` text
 
