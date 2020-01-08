@@ -2,7 +2,7 @@
 
 ### Kontaktuppgifter
 
-E-post: tobias.andersson@hotmail.fi </br
+E-post: tobias.andersson@hotmail.fi <br>
 Telefonnummer: +358 40 1831015
 
 # Header 1
