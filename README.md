@@ -13,13 +13,13 @@ Yrkesinstitutet Prakticum (2019-)
 
 ## Kunskap
 
-**HTML:**  <br>
-**CSS:**  <br>
-**Bootstrap:**  <br>
-**JS:** <br>
-**SQL:**  <br>
-**Photoshop:**  <br>
-**Illustrator:**  <br>
+**HTML:** Acceptabel <br>
+**CSS:** Acceptabel <br>
+**Bootstrap:** Nybörjare <br>
+**JS:** Nybörjare <br>
+**SQL:** Nybörjare <br>
+**Photoshop:** Nybörjare <br>
+**Illustrator:** Nybörjare <br>
 
 
 **Bold** and _Italic_ and `Code` text
