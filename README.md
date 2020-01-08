@@ -4,6 +4,8 @@
 
 **E-post:** tobias.andersson@hotmail.fi <br>
 **Telefonnummer:** +358 40 1831015
+**Address:** Kvarnängsvägen 72-15
+**Postort:** 01190 Box
 
 ## Studier
 
