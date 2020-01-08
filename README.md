@@ -2,8 +2,8 @@
 
 ## Kontaktuppgifter
 
-E-post: tobias.andersson@hotmail.fi <br>
-Telefonnummer: +358 40 1831015
+**E-post**: tobias.andersson@hotmail.fi <br>
+**Telefonnummer**: +358 40 1831015
 
 ## Studier
 
@@ -11,11 +11,13 @@ Yrkesinstitutet Prakticum (2019-)
 
 ## Kunskap
 
-HTML:  <br>
-CSS:  <br>
-Bootstrap:  <br>
-JS: <br>
-SQL:  <br>
+**HTML**:  <br>
+**CSS**:  <br>
+**Bootstrap**:  <br>
+**JS**: <br>
+**SQL**:  <br>
+**Photoshop**:  <br>
+**Illustrator**:  <br>
 
 
 **Bold** and _Italic_ and `Code` text
