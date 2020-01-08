@@ -11,11 +11,11 @@ Yrkesinstitutet Prakticum (2019-)
 
 ## Kunskap
 
-HTML:
-CSS:
-Bootstrap
-JS
-SQL
+HTML:  <br>
+CSS:  <br>
+Bootstrap:  <br>
+JS: <br>
+SQL:  <br>
 
 
 **Bold** and _Italic_ and `Code` text
